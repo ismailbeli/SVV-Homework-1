@@ -3,7 +3,7 @@ Number: B211202071
 Name and Surname: İsmail Beli
 Course: SWE202 Software Verification And Validation Homework-1
 Creating a data-driven test (parameterized test) using JUnit5.
-GitHub Repository URL : https://github.com/ismailbeli/SVVHomework1.git
+GitHub Repository URL : https://github.com/ismailbeli/SVV-Homework-1.git
 
  */
 
